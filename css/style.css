@@ -915,11 +915,11 @@ img {
   color: white;
 }
 
-.row:after {
+/* .row:after {
   content: '';
   display: table;
   clear: both;
-}
+} */
 
 /* Six columns side by side */
 .column {
@@ -935,4 +935,12 @@ img {
 .active,
 .demo:hover {
   opacity: 1;
+}
+
+.gallery .row {
+  padding-top: 1rem;
+}
+
+.gallery .container {
+  width: 50%;
 }
