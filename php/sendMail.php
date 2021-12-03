@@ -5,7 +5,7 @@ if($_POST) {
     $contact_email = "";
     $email_title = "DD Schweisser";
     $contact_message = "";
-    $recipient = "info@dd-schweisser.com";
+    $recipient = "info@ddschweisser.de";
     $email_body =
     "<html>
     <head>
